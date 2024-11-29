@@ -60,7 +60,7 @@
   
 Запуск тесто осуществляется командой в консоль:
 
-    pytest -v --driver Chrome --driver-path /path/to//chromedriver.exe test_HW33.py
+    pytest -v --driver Chrome --driver-path /path/to//chromedriver.exe test_for_rost.py
     
-  Где /path/to/ ваш путь для веб-драйвера (В моем случае запуск осуществлялся командой: python -m pytest -v --driver Chrome --driver-path C:\chromedriver.exe test_HW33.py)
+  Где /path/to/ ваш путь для веб-драйвера (В моем случае запуск осуществлялся командой: python -m pytest -v --driver Chrome --driver-path C:\chromedriver.exe test_for_rost.py)
     
